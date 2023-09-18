@@ -1,4 +1,4 @@
-![Alt text](Screenshot_2023-09-18-21-33-51-308_com.android.chrome-edit.jpg)
+![Screenshot_2023-09-18-21-33-51-308_com android chrome-edit]( @https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/8cbf2b22-c5d8-49cd-b689-cfab4bf6a555)
 
 <h1 align="center">Hi 👋, I'm Nandish bc</h1>
 <h3 align="center">Software developer ,tutor, consultant, content creator ,free ai tools and resources researcher, tech enthusiastic ,frontend developer</h3>
