@@ -27,7 +27,10 @@ CARRER MAKING WITH SELF TAUGHT ASPECT  AND LOVE.
 PHP AND OTHER FRAMEWORKS TO BUILD SOFTWARE ARCHITECTURE BACKEND SYSTEMS....
 
 
-**TECHNOLOGY IS THE BEST WAY TO WIN THE LIFE..
+**TECHNOLOGY IS THE BEST WAY TO WIN THE LIFE..![68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/94545e92-340e-4442-8ee0-b1a2fa876ba3)
+![images (15)](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/d67a6949-e917-4d6f-9f7d-f6a130e55fa0)
+![booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/6a2225c4-571e-4874-ab9a-a57f09b27d13)
+
 - 👨‍💻 All of my projects are available at [ https://studentcontinent.page.link/L17JuYcVko6nGz2Q6](https://studentcontinent.page.link/L17JuYcVko6nGz2Q6)
 
 
