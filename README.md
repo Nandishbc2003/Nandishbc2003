@@ -14,8 +14,7 @@
 ![images (1) (5)](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/aec47df0-6a6d-4e2a-8658-8aeafe708b39)
 ![images](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/83434219-642b-493e-9b44-31072c8a0749
 
-![booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/1589bf5b-1388-44a2-9f8d-bf251eff779d)
-![Uploading 68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966.gif…]()
+
 
 - 🌱 I’m currently learning **Backend development ,app development**
 
