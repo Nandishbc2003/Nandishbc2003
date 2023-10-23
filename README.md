@@ -12,7 +12,7 @@
 ![images](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/c43dca37-610b-49b6-8dc0-9d7896f53000)
 ![images (1) (5)](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/5c36a48a-9116-40ab-a0a7-723e02433c20)
 ![images (1) (5)](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/aec47df0-6a6d-4e2a-8658-8aeafe708b39)
-![images](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/83434219-642b-493e-9b44-31072c8a0749
+![images](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/83434219-642b-493e-9b44-31072c8a0749)
 
 
 
