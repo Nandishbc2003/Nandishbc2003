@@ -4,7 +4,15 @@
 <h3 align="center">Software developer ,tutor, consultant, content creator ,free ai tools and resources researcher, tech enthusiastic ,frontend developer</h3>
 
 
-
+![images (1)](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/791d78de-96ef-4941-84d1-cdd3d71d9362)
+![Screenshot_2023-02-25-14-17-11-345_com whatsapp](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/2e266670-2dee-42d1-98da-ab61ac77473a)
+![images (11)](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/f28ef28e-2cbb-48cc-9ac1-0e9ae9659ec0)
+![images (4)](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/6b86c67b-db15-4abc-9f10-27df69becaae)
+![images (1) (2)](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/15483dcb-f307-435c-91b8-7589a506768f)
+![images](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/c43dca37-610b-49b6-8dc0-9d7896f53000)
+![images (1) (5)](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/5c36a48a-9116-40ab-a0a7-723e02433c20)
+![images (1) (5)](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/aec47df0-6a6d-4e2a-8658-8aeafe708b39)
+![images](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/83434219-642b-493e-9b44-31072c8a0749
 
 
 - 🌱 I’m currently learning **Backend development ,app development**
