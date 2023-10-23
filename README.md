@@ -1,4 +1,4 @@
-
+https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/462b86bd-011a-40ea-b193-4e7003ddd007
 
 <h1 align="center">Hi 👋, I'm Nandish bc</h1>
 <h3 align="center">Software developer ,tutor, consultant, content creator ,free ai tools and resources researcher, tech enthusiastic ,frontend developer</h3>
