@@ -20,6 +20,10 @@
 | Class 12th      | Om Sai Pre-University College            | 99.9%    |
 | class 10th            | St Meera's Public School                | 97.60%   |
 
+![Screenshot_2023-10-30-15-13-08-040_com.google.android.apps.photos-edit.jpg](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/6044c96a-27cf-4e44-95ff-e0938ca14f43)
+
+![Screenshot_2023-11-02-15-22-55-308_com.ansm.anwriter-edit.jpg](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/f0d215ea-bce6-42dd-999a-63f88f028bf6)
+
 
 - 🌱 I’m currently learning **Backend development ,app development**
 
