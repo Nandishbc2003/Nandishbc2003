@@ -46,6 +46,18 @@ PHP AND OTHER FRAMEWORKS TO BUILD SOFTWARE ARCHITECTURE BACKEND SYSTEMS....
 FOR DISCORD SERVER FOLLOW ME
 [https://discord.gg/DzDVrAhc ](https://discord.gg/DzDVrAhc)
 
+![Screenshot_2023-08-06-18-11-58-717_com.whatsapp-edit.jpg](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/7f79ef22-5f86-43ca-9b8c-8fc6f7272a06)
+
+![Screenshot_2023-08-14-18-02-53-913_com.google.android.apps.docs-edit.jpg](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/bcfde13e-71a5-4c8c-9bd6-8ca707a9438e)
+
+![Screenshot_2023-08-06-18-11-12-623_com.whatsapp-edit.jpg](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/3cfb2f4f-9d9e-4f2d-abc7-ae67d7d0205b)
+
+![IMG-20220520-WA0003.jpg](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/1abb54da-4670-4f1b-9495-6c39ad5a850e)
+
+![Screenshot_2023-08-06-17-41-44-605_com.ansm.anwriter-edit.jpg](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/ee6691de-8853-4a7c-bd8f-421804005632)
+
+![Screenshot_2023-08-06-17-46-35-162_com.ansm.anwriter-edit.jpg](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/b54b8303-a007-4cfa-bc93-85865a8d5bcd)
+
 
 
 - 📝 I regularly write articles on [ https://dev.to/nandishbc2003](https://dev.to/nandishbc2003)
