@@ -14,6 +14,11 @@
 ![images (1) (5)](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/aec47df0-6a6d-4e2a-8658-8aeafe708b39)
 ![images](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/83434219-642b-493e-9b44-31072c8a0749)
 
+| Qualification  | College Name                            | Grade     |
+|-----------------|------------------------------------------|-----------|
+| Bcom            | Government First Grade College Malleshwaram 18th Cross | 8.0 CGPA  |
+| Class 12th      | Om Sai Pre-University College            | 99.9%    |
+| 10th            | St Meera's Public School                | 97.60%   |
 
 
 - 🌱 I’m currently learning **Backend development ,app development**
