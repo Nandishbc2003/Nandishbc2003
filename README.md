@@ -1,4 +1,4 @@
-iii
+
 
 <h1 align="center">Hi 👋, I'm Nandish bc</h1>
 <h3 align="center">Software developer ,tutor, consultant, content creator ,free ai tools and resources researcher, tech enthusiastic ,frontend developer</h3>
