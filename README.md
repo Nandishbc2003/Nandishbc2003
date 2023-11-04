@@ -148,21 +148,12 @@ e8b4)
 
 ![Screenshot_2023-09-20-18-50-10-054_com.ansm.anwriter-edit.jpg](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/90cc5f95-92c7-4ea5-aa61-4b634a82a165)
 
-![Screenshot_2023-09-20-18-47-30-339_com.ansm.anwriter-edit.jpg](https://github.![Screenshot_2023-09-24-20-02-15-485_com.android.vending-edit.jpg](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/6bd76766-bb25-4a81-86f4-6cf846cdf537)
 
-6a)
-
-![Uploading Screenshot_2023-09-24-20-02-15-485_com.android.vending-edit.jpg …]()
 
 ![Screenshot_2023-10-21-20-20-04-041_com.ansm.anwriter-edit.jpg](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/7e0d69ce-3fca-4904-bcc2-c9ed4abf1d04)
 
 
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1" alt="My Tech Stack" />
 
-![images (4)](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/4f49f066-f54a-4a5c-b379-1e605c214f4b)
-![images (3)](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/ce34419a-3166-4f94-a0b1-cbf26c230d9b)
-![download (4)](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/07d101f3-c6e7-4691-9719-4c2727e6e3e0)
-![download (3)](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/7a1205ff-cce3-489c-8f39-6c341ecc86ba)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Nandishbc2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
