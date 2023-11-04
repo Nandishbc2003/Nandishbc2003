@@ -1,4 +1,4 @@
-
+iii
 
 <h1 align="center">Hi 👋, I'm Nandish bc</h1>
 <h3 align="center">Software developer ,tutor, consultant, content creator ,free ai tools and resources researcher, tech enthusiastic ,frontend developer</h3>
@@ -90,6 +90,72 @@ Social media:<br>*Facebook-<br><br>https://www.facebook.com/profile.php?id=10007
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+![Screenshot_2023-09-06-21-10-09-854_com.ansm.anwriter-edit.jpg](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/81c1fa27-1f13-4b74-aa41-f7449ec8e6da)
+
+![Screenshot_2023-09-08-19-54-59-023_com.ansm.anwriter-edit.jpg](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/31738e27-280b-4ae7-8c54-b2193e3ae47e)
+
+![Screenshot_2023-09-08-22-26-34-310_com.ansm.anwriter-edit.jpg](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/94c878a9-ea6c-400d-9b60-cd5514f9fa81)
+
+![Screenshot_2023-09-08-19-56-08-147_com.ansm.anwriter-edit.jpg](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/9b62d45d-d035-4913-8bfd-ead233d1faa5)
+
+![Screenshot_2023-09-20-20-10-51-561_com.ansm.anwriter-edit.jpg](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/2b0c46d4-01d3-4bd7-a9a2-61fc8341344e)
+
+![Screenshot_2023-09-20-17-39-06-037_com.ansm.anwriter-edit.jpg](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/861c71b6-76a7-4d5d-8b24-9bd84451c525)
+
+![Screenshot_2023-09-06-20-23-58-944_com.ansm.anwriter-edit.jpg](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/171cdc09-3ad6-49fb-a70e-a1d7ae2eb264)
+
+![Screenshot_2023-09-20-17-37-54-843_com.ansm.anwriter-edit.jpg](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/19f69440-97e5-4dfc-b192-9dc199caaf16)
+
+![Screenshot_2023-09-20-17-38-30-737_com.ansm.anwriter-edit.jpg](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/3ea61c28-0eac-47cf-b952-e2b55b896a38)
+
+![Screenshot_2023-09-20-17-31-35-027_com.ansm.anwriter-edit.jpg](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/100cbd2d-41ba-49de-98df-2bc74852f882)
+
+![Screenshot_2023-09-08-22-21-12-606_com.ansm.anwriter-edit.jpg](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/2c61e34e-3b71-4a3c-a6a8-553fbfff6eb8)
+
+![Screenshot_2023-09-20-20-14-28-547_com.ansm.anwriter-edit.jpg](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/c0ce7b63-7a42-48fe-afe9-f207426281bf)
+
+![Screenshot_2023-09-20-17-33-23-868_com.ansm.anwriter-edit.jpg](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/1f6b150f-7870-47cd-aaf7-f7cbba1d1fd8)
+
+![Screenshot_2023-09-20-17-34-14-315_com.ansm.anwriter-edit.jpg](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/c314b731-9632-443a-9a36-b74b876de9ca)
+
+![Screenshot_2023-09-20-17-36-18-986_com.ansm.anwriter-edit.jpg](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/ada892ab-add0-4701-a1bf-2e7c5c1b703a)
+
+![Screenshot_2023-09-20-17-37-15-668_com.ansm.anwriter-edit.jpg](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/3453747b-7707-45b1-8710-dc332569d2af)
+
+![Screenshot_2023-09-20-18-43-22-312_com.ansm.anwriter-edit.jpg](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/5ae14f7a-80d3-4566-bf68-beb5353407fc)
+
+![Screenshot_2023-09-20-17-32-20-436_com.ansm.anwriter-edit.jpg](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/a24ece9b-b508-447f-916f-085f59b3dd20)
+
+![Screenshot_2023-09-20-18-44-02-574_com.ansm.anwriter-edit.jpg](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/8474e556-85fb-4cd7-b960-0b59294154f8)
+
+![Screenshot_2023-09-20-18-41-02-960_com.ansm.anwriter-edit.jpg](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/a542c77b-5f67-46bc-8d76-2812eb4695e3)
+
+![Screenshot_2023-09-20-17-40-04-576_com.ansm.anwriter-edit.jpg](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/b29ecac3-8e61-444d-a02c-6ebde31d1713)
+
+![Screenshot_2023-09-20-18-00-15-440_com.ansm.anwriter-edit.jpg](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/2a444610-8d6d-4993-bb3b-0130503539f3)
+
+![Screenshot_2023-09-20-17-40-44-517_com.ansm.anwriter-edit.jpg](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/8c6c99cb-13fb-486d-8c38-076733ab3203)
+
+![Screenshot_2023-09-20-18-44-38-933_com.ansm.anwriter-edit.jpg](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/bcebc544-6425-4ff5-9183-6012215ad229)
+
+![Screenshot_2023-09-20-18-45-17-852_com.ansm.anwriter-edit.jpg](https://github.![Screenshot_2023-09-20-18-46-06-840_com.ansm.anwriter-edit.jpg](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/cc30bbc6-2b26-4b4c-b6d3-22c124b57e12)
+
+e8b4)
+
+![Uploading Screenshot_2023-09-20-18-46-06-840_com.ansm.anwriter-edit.jpg …]()
+
+![Screenshot_2023-09-20-18-46-50-201_com.ansm.anwriter-edit.jpg](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/f6933adc-8877-408b-ae76-046a29970ca0)
+
+![Screenshot_2023-09-20-18-50-10-054_com.ansm.anwriter-edit.jpg](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/90cc5f95-92c7-4ea5-aa61-4b634a82a165)
+
+![Screenshot_2023-09-20-18-47-30-339_com.ansm.anwriter-edit.jpg](https://github.![Screenshot_2023-09-24-20-02-15-485_com.android.vending-edit.jpg](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/6bd76766-bb25-4a81-86f4-6cf846cdf537)
+
+6a)
+
+![Uploading Screenshot_2023-09-24-20-02-15-485_com.android.vending-edit.jpg …]()
+
+![Screenshot_2023-10-21-20-20-04-041_com.ansm.anwriter-edit.jpg](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/7e0d69ce-3fca-4904-bcc2-c9ed4abf1d04)
+
 
 <img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1" alt="My Tech Stack" />
 
