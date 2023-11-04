@@ -16,9 +16,9 @@
 
 | Qualification  | College Name                            | Grade     |
 |-----------------|------------------------------------------|-----------|
-| Bcom            | Government First Grade College Malleshwaram 18th Cross | 8.0 CGPA  |
+| Bcom            | Government First Grade College Malleshwaram 18th Cross (BENGALURU CITY UNIVERSITY)| 8.0 CGPA  |
 | Class 12th      | Om Sai Pre-University College            | 99.9%    |
-| 10th            | St Meera's Public School                | 97.60%   |
+| class 10th            | St Meera's Public School                | 97.60%   |
 
 
 - 🌱 I’m currently learning **Backend development ,app development**
