@@ -138,11 +138,7 @@ Social media:<br>*Facebook-<br><br>https://www.facebook.com/profile.php?id=10007
 
 ![Screenshot_2023-09-20-18-44-38-933_com.ansm.anwriter-edit.jpg](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/bcebc544-6425-4ff5-9183-6012215ad229)
 
-![Screenshot_2023-09-20-18-45-17-852_com.ansm.anwriter-edit.jpg](https://github.![Screenshot_2023-09-20-18-46-06-840_com.ansm.anwriter-edit.jpg](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/cc30bbc6-2b26-4b4c-b6d3-22c124b57e12)
 
-e8b4)
-
-![Uploading Screenshot_2023-09-20-18-46-06-840_com.ansm.anwriter-edit.jpg …]()
 
 ![Screenshot_2023-09-20-18-46-50-201_com.ansm.anwriter-edit.jpg](https://github.com/Nandishbc2003/Nandishbc2003/assets/94233957/f6933adc-8877-408b-ae76-046a29970ca0)
 
